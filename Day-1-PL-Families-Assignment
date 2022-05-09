@@ -1,0 +1,16 @@
+Q. Why python is slower than java or c?
+- Python is dynamically typed language, meaning variables can change their types in a code.
+- Because of this python interpreter takes time to understand the code by doing multiple checks on the variables.
+- This causes program to take much time that needed.
+- On the otehr hand, java and c are statically typed meaning, type of a variable is stated at the start.
+- This makes their respective compilers easy to understand the code and it has to perform less checks.
+- And that's why we see difference in performance.
+
+Q. LISP has a funky addition operation - (+ 1 2). We would normally see that as 1 + 2. 
+Why do you think that LISP is designed to order that operation that way?
+- I think this is because normally, if we have to add multiple integers we have to write, 1+2+3.
+- I think since LISP is a Functional laguage, the + sign here represents Summation operation, meaning,
+- to add many integers we just have to write it as + 1 2 3 34 56, and language will add them.
+- Which is right - https://en.wikibooks.org/wiki/Common_Lisp/First_steps/Beginner_tutorial
+
+Q. 
