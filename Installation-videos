@@ -10,3 +10,9 @@ Java JDK - Converts plain text files (.java) to Java bytecode files (.class)
 Java JVM - Takes java bytecode files (.class) and converts them to machine code 
 for the machine you are currently on.
 
+If the program is large containing multiple files, then java will first convert
+all the seperate files in respective .class file and then JVM will link those .class files
+together to get one big executable file. This process of linking files is called linking.
+
+
+Java is little bit of both - compiled and interpreted - https://www.baeldung.com/java-compiled-interpreted
