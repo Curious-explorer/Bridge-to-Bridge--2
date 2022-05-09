@@ -13,4 +13,9 @@ Why do you think that LISP is designed to order that operation that way?
 - to add many integers we just have to write it as + 1 2 3 34 56, and language will add them.
 - Which is right - https://en.wikibooks.org/wiki/Common_Lisp/First_steps/Beginner_tutorial
 
-Q. 
+Q. Let’s say that we ask you to learn a brand new language, created by the Roux faculty, the RouxCrew Language. 
+What are some (programming) things you might look for to get started working with that language?
+- How to do basic print statements?
+- How to declear variables?
+- How loop works in this language?
+
