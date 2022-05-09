@@ -19,3 +19,21 @@ Java is little bit of both - compiled and interpreted - https://www.baeldung.com
 
 
 In c, the #include command is what tells C compiler to link the particular library to the program.
+
+
+Good questions - 
+
+    What’s the difference between compiling, linking, and execution?
+    What’s the difference between a compiled and interpreted language?
+    Is Python compiled or interpreted?
+    Is C compiled or interpreted?
+    What are the pros and cons of an interpreted language versus a compiled language?
+    What is the function of the Java JDK?
+    What is the function of the Java JVM?
+    Between JDK and JVM which is machine specific?
+    What is Java’s tag line and what does it mean?
+
+
+Name an example of the kind of benefits that might be provided by linked code in C.
+Does a compiled C program run on every computer operating system or 
+just the operating system associated with the compilation of the C program?
