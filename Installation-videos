@@ -16,3 +16,6 @@ together to get one big executable file. This process of linking files is called
 
 
 Java is little bit of both - compiled and interpreted - https://www.baeldung.com/java-compiled-interpreted
+
+
+In c, the #include command is what tells C compiler to link the particular library to the program.
