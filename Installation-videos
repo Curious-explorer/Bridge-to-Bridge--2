@@ -1,0 +1,12 @@
+Vim tutorial  
+1. https://www.youtube.com/watch?v=ggSyF1SVFr4
+2. https://www.youtube.com/watch?v=RZ4p-saaQkc
+
+Java Code execution process -
+
+How does Java work?
+“Write once run anywhere”
+Java JDK - Converts plain text files (.java) to Java bytecode files (.class)
+Java JVM - Takes java bytecode files (.class) and converts them to machine code 
+for the machine you are currently on.
+
