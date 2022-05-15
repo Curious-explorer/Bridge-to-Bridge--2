@@ -28,7 +28,7 @@ There are several ways to find the error.
         (When doing so, make sure to put “\n” at the end of the
         message - it might not print otherwise!)
 11. Pass by value vs pass by reference - https://www.educative.io/edpresso/pass-by-value-vs-pass-by-reference
-12. NOTE - variable name is actually the address of value that it is storing. And pointers are special variables which store address of other variables as value.
+12. NOTE - variable name is actually the address of value that it is storing. And pointers are special variables which store address of other variables as value. 
 13. In C - **variable ++** is **post-increment** and **++ variable** is **preincrement**.
 14. In C - the name of the array stores address of the first element. (Check the downloaded PPT in desktop to know more)
 15. In pass by value we only pass the value, i.e. a new variable whose scope is limited to the function is created, and even the things which are returned are also values, not the variables. So if we want to update current varible we have to use pass by reference, in which we pass pointers or address of the variable. In this case the origian variable value will be modified (Note - we need to modify the value of a variable while scanf, hence over there we pass the address, and in printf we just need the value to display, hence in printf we only pass variable or value.)
