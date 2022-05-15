@@ -34,3 +34,9 @@ There are several ways to find the error.
 15. In pass by value we only pass the value, i.e. a new variable whose scope is limited to the function is created, and even the things which are returned are also values, not the variables. So if we want to update current varible we have to use pass by reference, in which we pass pointers or address of the variable. In this case the origian variable value will be modified (Note - we need to modify the value of a variable while scanf, hence over there we pass the address, and in printf we just need the value to display, hence in printf we only pass variable or value.)
 16. One can say variables are special types of pointers who will reveal their address after using &variable operator.
 17. NOTE - If you have a big nested if conditions, then try to convert them into bunch of if negative statements of original ones, and add return in each of them, this will allow you to seperate if statements and code will be more maintainable. 
+18. Whenever facing questions on pointers, use pen and paper to solve it.
+
+
+# Functions and Methods ->
+### Java ->
+1. 
