@@ -24,5 +24,6 @@ i.e. 3.9 (float) if we convert to integer than only 3 will be saved, partial dat
   - We can use that in case to sort things when we tell your to choose from MCQ options in a web form.
   - This feature is useful when we have to compare values of one variable with different constant values. So this can not replace if statements.
 4. Cool stuff - https://www.geeksforgeeks.org/java-ternary-operator-with-examples/
+5. JVM working info - https://www.baeldung.com/java-compiled-interpreted
 
 
